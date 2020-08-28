@@ -10,3 +10,21 @@ h1 {
    font-family: 'IBM Plex Serif',serif;
    font-size: 300%;
 }
+
+p { 
+  color: Black;
+  font-family: Harrington;
+  font-size:140%;
+}
+
+p2 {
+    color: red;
+    font-family: Harrington;
+    font-size: 150%;
+}
+
+p3 {
+    color: black;
+    font-family: Comic Sans MS;
+    font-size: 140%;
+}
