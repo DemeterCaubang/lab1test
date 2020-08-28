@@ -1,6 +1,5 @@
 body {
-position: relative;
-background-image: url('cute.jpg');
-bacground-repeat: no-repeat;
-background-size; 100% 100%;
+background-image: url(cute.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
 }
